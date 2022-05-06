@@ -7,7 +7,7 @@
   <li>A altura de paredes com porta deve ser, no mínimo, 30 centímetros maior que a altura da porta</li>
   <li>Cada janela possui as medidas: 2,00 x 1,20 mtos</li>
   <li>Cada porta possui as medidas: 0,80 x 1,90</li>
-  <li>Cada litro de tinta é capaz de pintar 5 metros quadrados</li>
+  <li>Cada litro de tinta é capaz de pintar 4 metros quadrados</li>
   <li>Não considerar teto nem piso.</li>
   <li>As variações de tamanho das latas de tinta são: 0,5L  | 2,5L  | 3,6L  | 18L </li><br>
   
